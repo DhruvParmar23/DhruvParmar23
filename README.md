@@ -91,20 +91,17 @@
 ## 🔥 &nbsp;Current Focus
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🤖 Mapping Robot</h3>
-        <p>Building an autonomous mapping robot using<br/>SLAM algorithms, LiDAR sensors, and ROS</p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-F5A623?style=for-the-badge&labelColor=0d1117"/>
-      </td>
-      <td align="center" width="50%">
-        <h3>🧠 AI & ML</h3>
-        <p>Exploring Machine Learning models for<br/>robotics perception and decision making</p>
-        <img src="https://img.shields.io/badge/Status-Learning-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-      </td>
-    </tr>
- </table>
+
+  <h3>🤖 Mapping Robot</h3>
+  <p>Building an autonomous mapping robot focusing on <strong>ESP32</strong>, <strong>VL53L0X</strong> (ToF), and <strong>MPU6050</strong> (IMU) sensors.<br/>Logic and interfacing built with <strong>Python</strong> & <strong>C#</strong>.</p>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-F5A623?style=for-the-badge&labelColor=0d1117"/>
+
+  <br/><br/>
+
+  <h3>🧠 AI & ML</h3>
+  <p>Exploring Machine Learning models for robotics perception and intelligent decision-making.</p>
+  <img src="https://img.shields.io/badge/Status-Learning-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+
 </div>
 
 <br/>
