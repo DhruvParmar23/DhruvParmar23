@@ -28,7 +28,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
@@ -46,7 +46,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
@@ -84,7 +84,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
@@ -110,7 +110,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
@@ -138,7 +138,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
@@ -151,7 +151,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
@@ -170,7 +170,7 @@
 <br/>
 
 <!-- Divider -->
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=2" width="100%"/>
 
 <br/>
 
