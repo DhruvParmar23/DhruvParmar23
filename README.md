@@ -1,4 +1,4 @@
-<![CDATA[<!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dhruv%20Parmar&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Robotics%20%7C%20AI/ML%20%7C%20IoT%20%7C%20Automation&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
@@ -217,5 +217,3 @@ fun_fact: "I build robots that can navigate the world on their own! 🌍"
 <br/>
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
-]]>
