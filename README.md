@@ -35,8 +35,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 <div align="center">
-  <p><h3>Hi there! 👋 I'm Dhruv Parmar from India.</h3></p>
-  <p>I'm deeply passionate about building intelligent systems. My main focus areas are <strong>Robotics</strong>, <strong>AI/Machine Learning</strong>, <strong>IoT</strong>, and <strong>Automation Systems</strong>.</p>
+  <p><h3>Hi there! 👋 I'm Dhruv Parmar.</h3></p>
+  <p>I am a <strong>B.Tech Computer Science</strong> student specializing in <strong>Artificial Intelligence and Machine Learning</strong>.<br/>I'm deeply passionate about building intelligent systems, with my main focus areas being <strong>Robotics</strong>, <strong>AI/ML</strong>, <strong>IoT</strong>, and <strong>Automation Systems</strong>.</p>
 </div>
 
 ### 🔬 What I'm up to:
