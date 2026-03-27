@@ -1,13 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dhruv%20Parmar&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Robotics%20%7C%20AI/ML%20%7C%20IoT%20%7C%20Automation&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=180&section=header&text=Dhruv%20Parmar&fontSize=55&fontColor=58a6ff&fontAlignY=40&desc=Robotics%20%7C%20AI/ML%20%7C%20IoT%20%7C%20Automation&descSize=18&descColor=8b949e&descAlignY=65" width="100%"/>
 </div>
 
-<!-- Animated Typing -->
+<!-- Static Subtitle -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A4%96+Building+Robots+That+Think;%F0%9F%92%A1+Automating+the+Future+with+IoT;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning;%F0%9F%9B%A0%EF%B8%8F+Currently+Working+on+a+Mapping+Robot" alt="Typing SVG" />
-  </a>
+  <h3>🤖 Building Robots That Think • 💡 Automating the Future • 🧠 Exploring AI/ML</h3>
 </div>
 
 <br/>
