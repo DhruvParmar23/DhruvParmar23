@@ -36,26 +36,15 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```yaml
-name: Dhruv Parmar
-located_in: India
-current_project: Mapping Robot 🗺️🤖
+<div align="center">
+  <p><h3>Hi there! 👋 I'm Dhruv Parmar from India.</h3></p>
+  <p>I'm deeply passionate about building intelligent systems. My main focus areas are <strong>Robotics</strong>, <strong>AI/Machine Learning</strong>, <strong>IoT</strong>, and <strong>Automation Systems</strong>.</p>
+</div>
 
-fields_of_interest:
-  - Robotics
-  - Artificial Intelligence / Machine Learning
-  - Internet of Things (IoT)
-  - Automation Systems
-  - Embedded Systems
-
-currently_learning:
-  - Advanced Robotics & SLAM Algorithms
-  - AI/ML for Real-World Applications
-  - Sensor Fusion & Computer Vision
-
-fun_fact: "I build robots that can navigate the world on their own! 🌍"
-```
-
+### 🔬 What I'm up to:
+- 🗺️🤖 **Current Project:** Building an autonomous Mapping Robot!
+- 🧠 **Learning:** Advanced Robotics, SLAM Algorithms, Sensor Fusion, and AI/ML for real-world applications.
+- 💡 **Fun Fact:** I build robots that can navigate the world on their own! 🌍
 <br/>
 
 <!-- Divider -->
